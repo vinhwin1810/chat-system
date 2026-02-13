@@ -4,7 +4,7 @@ npm-debug.log
 yarn-error.log
 package-lock.json
 yarn.lock
-
+uploads/
 # Environment variables
 .env
 .env.local
